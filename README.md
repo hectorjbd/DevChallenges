@@ -3,4 +3,4 @@
 
 ## Projects
 
-### Interior Consultant Master: ![Link de Proyecto](https://consultant-interior-master-hjbd.netlify.app/)
+### Interior Consultant Master: ![Enlace a Demo](https://consultant-interior-master-hjbd.netlify.app/)
